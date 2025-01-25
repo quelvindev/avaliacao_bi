@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD026 -->
+<!-- markdownlint-disable MD033 -->
 
 # Avaliação Power BI - Dpaschoal  :rocket: :computer: :chart_with_upwards_trend: :bar_chart:
 
@@ -52,19 +53,20 @@ Estoque
 
 ---
 
+<div style="text-align:center;">
+
 ## Skills :wrench: :mortar_board:
 
-::: center
 ![Static Badge](https://img.shields.io/badge/Git-%23f44c34?style=flat&logo=git&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Github-%23000000?style=flat&logo=github&logoColor=%23000000&labelColor=white)  
 
 ![Static Badge](https://img.shields.io/badge/Vscode-%231cacf3?style=flat&logo=vscode)
 ![Static Badge](https://img.shields.io/badge/Power%20Bi-%23ecbd10?style=flat)
-:::
 
 ---
-::: center
+
 Desenvolvido por : [Quelvin Carvalho](https://br.linkedin.com/in/quelvincarvalho) :construction_worker:
 
 Disponível em: [github](https://github.com/quelvindev/avaliacao_bi.git) :octocat: :lock:
-:::
+
+</div>
